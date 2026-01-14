@@ -149,7 +149,7 @@ Expo Go has limitations:
 
 
 ## 🎥 Loom Demo Video
-<https://www.loom.com/share/28e03959c1ed46d6a13f6051140c5df3>
+https://www.loom.com/share/28e03959c1ed46d6a13f6051140c5df3
 
 
 ✅ Submission Checklist
